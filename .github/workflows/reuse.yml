@@ -1,4 +1,4 @@
-name: ex4
+name: re-use
 on:
   workflow_call:
     inputs:
